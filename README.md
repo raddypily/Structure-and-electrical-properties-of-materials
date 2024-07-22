@@ -1,3 +1,3 @@
 # Structure-and-electrical-properties-of-materials
 
-Matlab lab excercises
+Matlab and Simulink lab excercises
